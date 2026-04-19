@@ -2,6 +2,7 @@
 Data-driven procurement dashboard for vendor selection using scoring, analytics, and role-based management.
 
 💡 Intelligent Vendor Selection & Procurement Optimizer
+https://vendor-selection-optimizer.streamlit.app/
 
 This project is a full-stack procurement optimization system designed to help organizations select the best vendors based on multiple criteria such as cost, delivery time, and performance ratings. It features a user authentication system, role-based access control, dynamic data management (add, edit, delete), and an analytics dashboard with visual insights. The system also supports data export in CSV and Excel formats, making it suitable for real-world business reporting and decision-making.
  A data-driven procurement analytics dashboard that helps businesses evaluate and select the best vendors using a weighted scoring model based on price, delivery time, and ratings.
