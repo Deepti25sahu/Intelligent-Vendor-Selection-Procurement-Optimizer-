@@ -27,6 +27,10 @@ How It Works
 
 Vendor Data → Filtering → Scoring Algorithm → Ranking → Insights & Visualization
 
+DEPLOYMENT LINK TO ACCESS
+
+https://vendor-selection-optimizer.streamlit.app/
+
 Tech Stack
 
 Frontend: Streamlit
