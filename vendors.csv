@@ -1,0 +1,51 @@
+vendor_id,name,price,delivery_days,rating,location,category
+V001,Vendor 1,805,3,3.1,Mumbai,Raw Materials
+V002,Vendor 2,810,4,3.2,Bangalore,Logistics
+V003,Vendor 3,815,5,3.3,Chennai,Industrial
+V004,Vendor 4,820,6,3.4,Pune,Electronics
+V005,Vendor 5,825,7,3.5,Hyderabad,Raw Materials
+V006,Vendor 6,830,8,3.6,Kolkata,Logistics
+V007,Vendor 7,835,9,3.7,Delhi,Industrial
+V008,Vendor 8,840,10,3.8,Mumbai,Electronics
+V009,Vendor 9,845,2,3.9,Bangalore,Raw Materials
+V010,Vendor 10,850,3,4,Chennai,Logistics
+V011,Vendor 11,855,4,4.1,Pune,Industrial
+V012,Vendor 12,860,5,4.2,Hyderabad,Electronics
+V013,Vendor 13,865,6,4.3,Kolkata,Raw Materials
+V014,Vendor 14,870,7,4.4,Delhi,Logistics
+V015,Vendor 15,875,8,4.5,Mumbai,Industrial
+V016,Vendor 16,880,9,4.6,Bangalore,Electronics
+V017,Vendor 17,885,10,4.7,Chennai,Raw Materials
+V018,Vendor 18,890,2,4.8,Pune,Logistics
+V019,Vendor 19,895,3,4.9,Hyderabad,Industrial
+V020,Vendor 20,900,4,3,Kolkata,Electronics
+V021,Vendor 21,905,5,3.1,Delhi,Raw Materials
+V022,Vendor 22,910,6,3.2,Mumbai,Logistics
+V023,Vendor 23,915,7,3.3,Bangalore,Industrial
+V024,Vendor 24,920,8,3.4,Chennai,Electronics
+V025,Vendor 25,925,9,3.5,Pune,Raw Materials
+V026,Vendor 26,930,10,3.6,Hyderabad,Logistics
+V027,Vendor 27,935,2,3.7,Kolkata,Industrial
+V028,Vendor 28,940,3,3.8,Delhi,Electronics
+V029,Vendor 29,945,4,3.9,Mumbai,Raw Materials
+V030,Vendor 30,950,5,4,Bangalore,Logistics
+V031,Vendor 31,955,6,4.1,Chennai,Industrial
+V032,Vendor 32,960,7,4.2,Pune,Electronics
+V033,Vendor 33,965,8,4.3,Hyderabad,Raw Materials
+V034,Vendor 34,970,9,4.4,Kolkata,Logistics
+V035,Vendor 35,975,10,4.5,Delhi,Industrial
+V036,Vendor 36,980,2,4.6,Mumbai,Electronics
+V037,Vendor 37,985,3,4.7,Bangalore,Raw Materials
+V038,Vendor 38,990,4,4.8,Chennai,Logistics
+V039,Vendor 39,995,5,4.9,Pune,Industrial
+V040,Vendor 40,1000,6,3,Hyderabad,Electronics
+V041,Vendor 41,1005,7,3.1,Kolkata,Raw Materials
+V042,Vendor 42,1010,8,3.2,Delhi,Logistics
+V043,Vendor 43,1015,9,3.3,Mumbai,Industrial
+V044,Vendor 44,1020,10,3.4,Bangalore,Electronics
+V045,Vendor 45,1025,2,3.5,Chennai,Raw Materials
+V046,Vendor 46,1030,3,3.6,Pune,Logistics
+V047,Vendor 47,1035,4,3.7,Hyderabad,Industrial
+V048,Vendor 48,1040,5,3.8,Kolkata,Electronics
+V049,Vendor 49,1045,6,3.9,Delhi,Raw Materials
+V050,Vendor 50,1050,7,4,Mumbai,Logistics
